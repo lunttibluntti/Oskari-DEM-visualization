@@ -1,0 +1,17 @@
+{
+  "name": "ol-elevation",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "chroma-js": "^2.6.0",
+    "ol": "latest",
+    "proj4": "^2.12.0"
+  }
+}
